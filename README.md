@@ -40,7 +40,9 @@ It reflects real-world variability in demographics, lighting, devices, and image
 🗂 IMPS image IDs will be published soon.
 
 📚 Citation
+
 If you use any of the concepts or code from this repository, please consider citing our paper:
+
 @inproceedings{sultana2025domain,
   title={Domain Adaptation for Skin Lesion: Evaluating Real-World Generalisation},
   author={Sultana, Nurjahan and Lu, Wenqi and Fan, Xinqi and Yap, Moi Hoon},
