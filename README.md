@@ -53,6 +53,7 @@ If you use any of the concepts or code from this repository, please consider cit
   booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
   pages={3433--3443},
   year={2025}
-}```
+}
+```
 
 If you need access or have questions during this time, please do not hesitate to contact me.
