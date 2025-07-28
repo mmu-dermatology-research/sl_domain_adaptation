@@ -37,8 +37,6 @@ IMPS is a diverse clinical dataset created by combining:
 
 It reflects real-world variability in demographics, lighting, devices, and image quality—making it suitable for robust domain adaptation evaluation.
 
-## Contact me for more detail about the IMPS dataset
-
 🗂 IMPS image IDs will be published soon.
 
 ### 📚 Citation
@@ -55,4 +53,4 @@ If you use any of the concepts or code from this repository, please consider cit
 }
 ```
 
-If you need access or have questions during this time, please do not hesitate to contact me (nurjahan.sultana@stu.mmu.ac.uk).
+## Contact me for more detail about the IMPS dataset (nurjahan.sultana@stu.mmu.ac.uk).
