@@ -26,10 +26,9 @@ Single-target evaluation: Each clinical dataset (SD198, ISIC-Clinical, MED-NODE,
 
 Diverse-target evaluation: We combined them into the IMPS dataset to simulate real-world variability (e.g. device, lighting, skin tone).
 
-📂 Dataset
+📂 Dataset 
 
 IMPS is a diverse clinical dataset created by combining:
-
 
 - SD198: [DermQuest](https://github.com/xpwu95/SPBL_Pytorch?tab=readme-ov-file)
 - ISIC Archive (Clinical): [https://www.isic-archive.com/](https://www.isic-archive.com/)
@@ -37,6 +36,8 @@ IMPS is a diverse clinical dataset created by combining:
 - PAD-UFES-20: [https://data.mendeley.com/datasets/wtwzydcc8y/1](https://data.mendeley.com/datasets/wtwzydcc8y/1)
 
 It reflects real-world variability in demographics, lighting, devices, and image quality—making it suitable for robust domain adaptation evaluation.
+
+## Contact me for more detail about the IMPS dataset
 
 🗂 IMPS image IDs will be published soon.
 
@@ -54,4 +55,4 @@ If you use any of the concepts or code from this repository, please consider cit
 }
 ```
 
-If you need access or have questions during this time, please do not hesitate to contact me.
+If you need access or have questions during this time, please do not hesitate to contact me (nurjahan.sultana@stu.mmu.ac.uk).
