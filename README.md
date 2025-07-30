@@ -53,4 +53,4 @@ If you use any of the concepts or code from this repository, please consider cit
 }
 ```
 
-## Contact me for more detail about the IMPS dataset (nurjahan.sultana@stu.mmu.ac.uk).
+Contact me for more detail about the IMPS dataset (nurjahan.sultana@stu.mmu.ac.uk).
