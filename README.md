@@ -4,6 +4,8 @@
 📄 Full paper Link:
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Domain+Adaptation+for+Skin+Lesion%3A+Evaluating+Real-World+Generalisation&btnG=
 
+## DOI: 10.1109/CVPRW64917.2025.00371
+
 ### Authors: Nurjahan Sultana, Wenqi Lu, Xinqi Fan, Moi Hoon Yap
 
 This work addresses a critical issue in medical AI: models trained on dermoscopic images often fail when tested on real-world clinical images due to domain shift.
@@ -44,12 +46,13 @@ It reflects real-world variability in demographics, lighting, devices, and image
 If you use any of the concepts or code from this repository, please consider citing our paper:
 
 ```bibtex
-@inproceedings{sultana2025domain,
-  title={Domain Adaptation for Skin Lesion: Evaluating Real-World Generalisation},
-  author={Sultana, Nurjahan and Lu, Wenqi and Fan, Xinqi and Yap, Moi Hoon},
-  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
-  pages={3433--3443},
-  year={2025}
+@InProceedings{Sultana_2025_CVPR,
+    author    = {Sultana, Nurjahan and Lu, Wenqi and Fan, Xinqi and Yap, Moi Hoon},
+    title     = {Domain Adaptation for Skin Lesion: Evaluating Real-World Generalisation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {3433-3443}
 }
 ```
 
