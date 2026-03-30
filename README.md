@@ -4,7 +4,6 @@
 📄 Full paper Link:
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Domain+Adaptation+for+Skin+Lesion%3A+Evaluating+Real-World+Generalisation&btnG=
 
-## DOI: 10.1109/CVPRW64917.2025.00371
 
 ### Authors: Nurjahan Sultana, Wenqi Lu, Xinqi Fan, Moi Hoon Yap
 
