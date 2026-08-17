@@ -2,7 +2,7 @@
 
 # Accepted at WiCV @ CVPR 2025 (Oral Presentation)
 
-[DOI: 10.1109/CVPRW67362.2025.0032](https://doi.org/10.1109/CVPRW67362.2025.0032)
+[DOI: 10.1109/CVPRW67362.2025.00328](https://doi.org/10.1109/CVPRW67362.2025.00328)
 
 [Paper (IEEE Xplore)](https://ieeexplore.ieee.org/abstract/document/11147699)
 
