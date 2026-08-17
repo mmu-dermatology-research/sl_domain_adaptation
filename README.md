@@ -3,6 +3,8 @@
 
 [DOI: 10.1109/CVPRW67362.2025.0032](https://doi.org/10.1109/CVPRW67362.2025.0032)
 
+[Paper (IEEE Xplore)](https://doi.org/10.1109/CVPRW67362.2025.0032)
+
 📄 Full paper Link:
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Domain+Adaptation+for+Skin+Lesion%3A+Evaluating+Real-World+Generalisation&btnG=
 
